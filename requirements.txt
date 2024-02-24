@@ -1,0 +1,3 @@
+skia-python
+pysdl2
+pysdl2-dll
